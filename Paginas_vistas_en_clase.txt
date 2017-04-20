@@ -1,3 +1,12 @@
+Manuales Git
+Oficial
+https://git-scm.com/book/es/v1
+
+Resumen bueno
+http://rogerdudler.github.io/git-guide/index.es.html
+
+
+
 http://www.20thingsilearned.com/es-419
 
 
@@ -13,4 +22,3 @@ https://github.com/111milprogramadores
 https://github.com/
 
 
-https://github.com/alvarezleonardo
