@@ -1,4 +1,5 @@
 Manuales Git
+
 Oficial
 https://git-scm.com/book/es/v1
 
@@ -6,21 +7,19 @@ Resumen bueno
 http://rogerdudler.github.io/git-guide/index.es.html
 
 
-
-http://www.20thingsilearned.com/es-419
-
-
-https://trello.com/
-
-
-http://www.tutorialesprogramacionya.com/javascriptya/
-
-
+Material oficial
 https://github.com/111milprogramadores
 
 
+Tutoriales
+http://www.20thingsilearned.com/es-419
+http://www.tutorialesprogramacionya.com/javascriptya/
+
+
+Herramientas
+https://trello.com/
 https://github.com/
 
-http://pseint.sourceforge.net/
+
 
 
