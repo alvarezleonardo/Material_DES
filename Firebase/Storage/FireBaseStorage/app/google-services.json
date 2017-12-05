@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "361409836803",
+    "firebase_url": "https://misegundofirebase.firebaseio.com",
+    "project_id": "misegundofirebase",
+    "storage_bucket": "misegundofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361409836803:android:70d610048c0c78af",
+        "android_client_info": {
+          "package_name": "facebook.com.example.digitalhouse.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361409836803-dao2ii385j3jrsic85nqbs2m6n3ni35o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "facebook.com.example.digitalhouse.firebaselogin",
+            "certificate_hash": "C0B3D0A55ED89C4E7502B4EB618FDA7DB8F05F84"
+          }
+        },
+        {
+          "client_id": "361409836803-mjhga4mmmofterdh5pcbb6bv1tje34nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "facebook.com.example.digitalhouse.firebaselogin",
+            "certificate_hash": "852ED607733970092A8A3B35D8333EC688AFDC5B"
+          }
+        },
+        {
+          "client_id": "361409836803-cu8tul91d4k7ma3hdimip5cpkbkva3dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_J9pDbc3KH_xNVDAdab8jquKle1lAvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361409836803-cu8tul91d4k7ma3hdimip5cpkbkva3dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+en el proyecto, a la derecha gradle, android-signingReport
+si no aparece en run abajo apretar icono de la izquierda
+
+el archivo descargado hay que agregarlo a app en modo proyecto
+
+
+google play services y repository en sdk tools
+
+
+https://firebase.google.com/docs/auth/android/start/

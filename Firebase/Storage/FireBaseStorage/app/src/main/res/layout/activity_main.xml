@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="facebook.com.example.digitalhouse.firebaselogin.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create User"
+        android:id="@+id/button"
+        android:onClick="createUser"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login user"
+        android:id="@+id/button2"
+        android:layout_below="@+id/textView"
+        android:onClick="loginUser"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Out"
+        android:id="@+id/button3"
+        android:layout_below="@+id/textView"
+        android:onClick="signOut"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Read from Database"
+        android:id="@+id/button4"
+        android:layout_below="@+id/textView"
+        android:onClick="readFromDatabase"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Write Simple Database"
+        android:id="@+id/button5"
+        android:layout_below="@+id/textView"
+        android:onClick="writeSimple"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Write Complex Database"
+        android:id="@+id/button6"
+        android:layout_below="@+id/textView"
+        android:onClick="writeComplex"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload Image"
+        android:id="@+id/button7"
+        android:layout_below="@+id/textView"
+        android:onClick="uploadImage"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="82dp" />
+</LinearLayout>

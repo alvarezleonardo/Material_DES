@@ -1,0 +1,15 @@
+{
+    "timeLine": [{
+        "nombre": "Jose",
+        "apellido": "Fermoso",
+        "lastTweet": "Lorem ipsum bla bla bla, este es un tweet"
+    }, {
+        "nombre": "Santiago",
+        "apellido": "Gil",
+        "lastTweet": "Lorem ipsum, este es otro tweet"
+    }, {
+        "nombre": "Clara",
+        "apellido": "Goncalves",
+        "lastTweet": "bla bla bla, no se que tweetear"
+    }]
+}

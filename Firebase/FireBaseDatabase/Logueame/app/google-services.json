@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102344783210",
+    "firebase_url": "https://logueme-e04e4.firebaseio.com",
+    "project_id": "logueme-e04e4",
+    "storage_bucket": "logueme-e04e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102344783210:android:f09b606ee644bf40",
+        "android_client_info": {
+          "package_name": "digitalhouse.android.logueame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102344783210-0u0hi799lrj1oqao7lub4smp0ncpdfne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digitalhouse.android.logueame",
+            "certificate_hash": "A552EE131D7DE9532B62CE8329782CDB88A5840B"
+          }
+        },
+        {
+          "client_id": "102344783210-qo1lv1hmsu9it7pc8le005u6fibdn35v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLyhHhClGcM27OqUxC9TLT-WL5UmbWEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102344783210-qo1lv1hmsu9it7pc8le005u6fibdn35v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
